@@ -27,5 +27,5 @@ struct CircularProgressView: View {
 }
 
 #Preview {
-    CircularProgressView(progress: .constant(0.1))
+    CircularProgressView(progress: .constant(0.7))
 }
